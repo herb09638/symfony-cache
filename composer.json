@@ -5,6 +5,12 @@
     "keywords": ["caching", "psr6"],
     "homepage": "https://symfony.com",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/herb09638/cache-contracts"
+        }
+    ],
     "authors": [
         {
             "name": "Nicolas Grekas",
